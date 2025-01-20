@@ -12,7 +12,7 @@ export const Movie = () => {
           <Card key={curMovie.imdbID} curMovie={curMovie} />
         ))
       ) : (
-        <p>No movies found or an error occurred.</p>
+        <p>No movies found or an error occurred..</p>
       )}
     </ul>
   );

@@ -6,7 +6,7 @@ export const Footer = () => {
             <img src="./images/logo.png" alt="logo" />
             <p>
               Welcome to Thapa EcomStore, your ultimate destination for
-              cutting-edge gadgets!
+              cutting-edge gadgets.!
             </p>
             <img src="https://i.postimg.cc/Nj9dgJ98/cards.png" alt="cards" />
           </div>
